@@ -197,7 +197,7 @@ The analytical report covers:
 
 Skills: SQL | PostgreSQL | Power BI | Python | Excel | Data Cleaning | Data Visualisation | Statistical Analysis
 
-📧 Connect with me on [LinkedIn]linkedin.com/in/balogunbunmi. | 🐙 [GitHub](https://github.com/BUNMI5-design)
+📧 Connect with me on [LinkedIn](linkedin.com/in/balogunbunmi). | 🐙 [GitHub](https://github.com/BUNMI5-design)
 
 ---
 
